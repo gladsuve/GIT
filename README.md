@@ -2,42 +2,20 @@
 GIT
 
 # 과목 개요
- - ch1. 
- - ch2. 
- - ch3. 
+ - ch1. git의 기본 용어 설명 및 사용법
+ - ch2. 내부 저장소와 외부 연결을 통한 push & pull
+ - ch3. Eclips와 
 
 <br>
 # 과제 list
 
 <br>
 # 과제 1 - 주제
-과제 내용을 간략히 기술
-
-## 과제 스크린샷, ERD 다이어그램 등
-   <img src="architecture.png"/><br>
-   
-   <img src="erd.JPG"/><br>
-
-## 발표 ppt 
-[발표자료<img src="ppt.JPG"/>](/project.pptx)<br> 
-## 시연 동영상  
-<iframe width="424" height="238" src="https://www.youtube.com/embed/reOGfxYJre0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+github 설명에 대한 동영상 제작
 
 <br>
 # 과제 2 - 주제
-과제 내용을 간략히 기술
-
-## 과제 스크린샷,  ERD 다이어그램 등
-   <img src="architecture.png"/><br>
-   
-   <img src="erd.JPG"/><br>
-   
-## 발표 ppt 
-[발표자료<img src="ppt.JPG"/>](/project.pptx)<br>
-## 시연 동영상  
-<iframe width="424" height="238" src="https://www.youtube.com/embed/reOGfxYJre0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+Sourcetree를 활용하여 github 연동에 대한 동영상 제작
 
 
 <br>

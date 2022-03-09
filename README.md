@@ -29,4 +29,4 @@ Sourcetree를 활용하여 github 연동에 대한 동영상 제작
 
 
 # 관련링크
-github 주소 : (https://gladsuve.github.io)
+github 주소 : https://gladsuve.github.io/

@@ -4,7 +4,7 @@ GIT
 # 과목 개요
  - ch1. git의 기본 용어 설명 및 사용법
  - ch2. 내부 저장소와 외부 연결을 통한 push & pull
- - ch3. Eclips와 
+ - ch3. Eclipse와 Sourectree를 활용한 git 사용법
 
 <br>
 # 과제 list
